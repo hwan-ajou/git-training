@@ -8,6 +8,7 @@ int main()
 	math = 80;
 	eng = 100;
 	kor = 90;
+	// Added One line after commit 2
 	sum = 80 + 100 + 90;
 
 	printf("This program print report card.\n");
